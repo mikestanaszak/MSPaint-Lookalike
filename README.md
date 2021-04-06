@@ -1,6 +1,6 @@
 # MSPaint
 
-Project Assigned During a Lower Level Programming Class
+Project assigned during a lower level programming class
 
 Written in x86 Assembly
 
