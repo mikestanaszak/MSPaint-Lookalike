@@ -7,6 +7,7 @@ Written in x86 Assembly
 Final Project, Project requirements:
 
 - Working version of the previewed exe given by professor
+- Goal was to create a working "MSPaint" using mouse interruptions in the CMD window, as well as adding buttons and allowing for different colors, characters etc.
 - Bonus points for adding features that are not included
 
 Contributions:
