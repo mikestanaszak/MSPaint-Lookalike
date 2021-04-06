@@ -1,4 +1,4 @@
-# MSPaint
+# MSPaint-Lookalike
 
 Project assigned during a lower level programming class
 
